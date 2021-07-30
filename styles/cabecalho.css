@@ -1,0 +1,46 @@
+header{
+    display: block;
+    padding-top: 40px;
+    min-height: 150px;
+    background-image: linear-gradient(#2a7a4d, #023619);  
+    max-height: 250px;
+}
+.cabecalho-titulo{
+    
+    text-align: center;
+    margin-bottom: 45px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 2em;
+}
+.cabecalho-texto{
+    width: auto;
+  
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.1em;
+    padding-bottom: 10px;
+}
+.menu{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.link-menu{
+    
+    
+    color: #b1f5cc;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background-color 0.5s;
+}
+.link-menu:hover{
+    background-color: #2a7a4d;
+    
+    
+}

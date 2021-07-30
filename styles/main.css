@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(255, 228, 196, 0.397);
+}
+main{
+    background-color: white;
+    max-width: 700px;
+    
+    padding-bottom: 15px;
+    height: auto;
+    /*padding: 10px;*/
+    margin: auto;
+    box-shadow: 5px 5px 15px #465155b6;
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 20px;
+}
+.titulo-principal{
+    font-family: "idroid", sans-serif;
+    font-size: 1.5em;
+    color: #023619;
+    padding: 10px;
+}
+.titulo-secundario{
+    font-family: "idroid", sans-serif;
+    font-size: 1.2em;
+    color: #2a7a4d;
+    background-image: linear-gradient(to right, #9AE4BE, rgb(255, 255, 255));
+    margin-left: 10px;
+}
+.main-texto{
+    font-family: 'Roboto', sans-serif;
+    font-weight: inherit;
+    padding: 15px;
+    text-indent: 20px;
+    line-height: 27px;
+}
+img{
+    width: 100%;
+    
+    
+}
+.pequena{
+    display: block;
+    max-width: 300px;
+    align-content: center;
+    margin: auto;
+}
+.negrito{
+    font-weight: bold;
+    color: #023619d5;
+    
+}
+.link-citacao{
+    background-image: linear-gradient(to right, #9AE4BE, #9AE4BE);
+    text-decoration: none;
+}
+.link-citacao:hover{
+    text-decoration: underline;
+    
+}
+section#video-android{
+    background-color: #023619;
+    
+}
+.video{
+    width: calc(100% - 40px);
+    margin: 20px;
+}
+section#extra{
+    background-color: #9AE4BE;
+    margin: 10px;
+    border-radius: 10px;
+}
+.titulo-extra{
+    font-family: "Arial", sans-serif;
+    padding: 10px;
+    background-color:#023619 ;
+    color: white;
+    border-radius: 10px 10px 0 0;
+}
+.item-lista{
+    margin-left: 15px;
+}
+.rodape{
+    height: 20px;
+    text-align: center;
+    padding: 2px;
+    background-color: #023619;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-size: 15px;
+}
+b{
+    font-weight: bold;
+}
