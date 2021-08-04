@@ -20,11 +20,12 @@ main{
     padding: 10px;
 }
 .titulo-secundario{
-    font-family: "idroid", sans-serif;
+    font-family: "IDroid", sans-serif;
     font-size: 1.2em;
     color: #2a7a4d;
     background-image: linear-gradient(to right, #9AE4BE, rgb(255, 255, 255));
     margin-left: 10px;
+    
 }
 .main-texto{
     font-family: 'Roboto', sans-serif;
